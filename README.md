@@ -1,8 +1,8 @@
-# Portfolio Profesional - Cloud Engineer
+# Portfolio Profesional - Cloud Engineer and Network Security Engineer para Cerezo83 
 
-Portfolio web profesional para ingenieros cloud con diseño responsivo y moderno.
 
-## Publicar en GitHub Pages
+
+## En construccion
 
 ### Pasos para publicar gratuitamente:
 
@@ -18,7 +18,7 @@ Portfolio web profesional para ingenieros cloud con diseño responsivo y moderno
    - Guarda los cambios
 
 3. **Tu sitio estará disponible en:**
-   - `https://tu-usuario.github.io/tu-repositorio`
+   - `https://cerezo83.github.io/portfolio`
 
 ### Estructura de archivos necesaria:
 ```
@@ -30,16 +30,3 @@ portfolio/
     └── (todas las imágenes de proyectos)
 ```
 
-### Personalización:
-- Edita `script.js` para añadir/modificar proyectos
-- Cambia colores y estilos en `style.css`
-- Actualiza información personal en `index.html`
-
-### Características:
-- Diseño responsivo para móviles y desktop
-- Filtros de proyectos por categoría
-- Modales con detalles de proyectos
-- Animaciones suaves
-- Paleta de colores profesional
-
-El sitio se actualiza automáticamente cada vez que hagas push a la rama main. 
